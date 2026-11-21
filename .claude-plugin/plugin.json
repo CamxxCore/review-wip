@@ -1,0 +1,6 @@
+{
+  "name": "review-wip",
+  "version": "0.1.0",
+  "description": "Interactive pane for /review-wip findings: accept, refuse, rephrase, follow up, ask for more info",
+  "types": "./types/index.d.ts"
+}
